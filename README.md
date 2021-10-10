@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- My name is Peter Flanders
+- Pronouns: He/Him
+- I study at Mathematics, Programming, and GIS at UCLA
+<!--- My Main *public* Project is currently [Sign Language Translation](https://github.com/pfflanders/Sign-Language-Translation) 
+  - This project is still in its infancy and we are in the researching stage 
 <!--
 **pfflanders/pfflanders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
